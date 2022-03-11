@@ -1,8 +1,8 @@
 import time
 import pyupbit
 
-access = "6eShE0UrJKvExc8tDOQzDnpwoxQUvFSsNxywGJEx"
-secret = "V0LFL8ol8sIkxzzM1IogVIVN7BGxxxawdsdLNPRX"
+access = ""
+secret = ""
 
 def get_balance(ticker):
     """잔고 조회"""
